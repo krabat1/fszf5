@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fszf5-7929f": {
+      "hosting": {
+        "beginApp": [
+          "fszf5-7929f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fszf5-7929f"
+  }
+}
